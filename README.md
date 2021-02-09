@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Create React App Base
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Menggunakan Template Dari [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Library yang Digunakan
 
 1. Bootstrap
 2. React-Boostrap
@@ -16,3 +16,31 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 10. React-Redux
 11. Redux-Thunk
 12. Yup
+
+## Struktur Folder
+
+src
+├───actions
+├───api
+├───assets
+│   ├───img
+│   └───scss
+├───components
+│   └───defaults
+├───layouts
+├───reducers
+├───screens
+└───static
+
+### Actions
+### Api
+### Assets
+#### Img
+#### Scss
+### Components
+### Layouts
+### Reducers
+### Screens
+### Static
+
+::TODO:: 
